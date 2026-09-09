@@ -1,0 +1,2 @@
+model,horizon_hours,test_samples,best_epoch,best_validation_mae_scaled,mae,rmse,r2,negative_predictions,negative_prediction_percent,clipped_mae_sensitivity,clipped_rmse_sensitivity,clipped_r2_sensitivity
+Shared LSTM,5,30000,73,0.4029386598999436,4.318808134909446,6.532583225235981,0.6533234436430563,1185,3.95,4.285062588510092,6.525208642646687,0.6541057227961699
